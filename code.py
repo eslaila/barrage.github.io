@@ -1,5 +1,4 @@
 import streamlit as st
-import geopandas as gpd
 import numpy as np
 import leafmap.foliumap as leafmap
 
