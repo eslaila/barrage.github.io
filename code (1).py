@@ -14,8 +14,8 @@ m = leafmap.Map()
 
 
 # Vérifier si les colonnes attributs existent pour les jours sélectionnés
-selected_column2017 = f'https://github.com/imanefawz/detectionbarrage.github.io/blob/main/2017/envi'
-selected_column2023 = f'https://github.com/imanefawz/detectionbarrage.github.io/blob/main/2023/envi'
+selected_column2017 = f'https://github.com/eslaila/barrage.github.io/blob/main/2017/envi'
+selected_column2023 = f'https://github.com/eslaila/barrage.github.io/blob/main/2017/envi'
 # Configurer et exécuter la boucle d'événements avec asyncio
 
 m.split_map(
